@@ -1,0 +1,14 @@
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.test
+
+# Arquivos gerados pelo IDE
+.idea/
+*.iml
+
+# Arquivos compilados
+bin/
+target/
+*.class
